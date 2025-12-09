@@ -57,4 +57,4 @@ Simple navigation for both students and admins
 
 ![Login page](https://github.com/Prasanna-1510/Student_online_feedback_system/blob/main/login_student_feedback.png)
 
-![Result Page](https://github.com/Prasanna-1510/Student_online_feedback_system/blob/main/result_studentfeedback.png)
+![Result Page](https://github.com/Prasanna-1510/Student_online_feedback_system/blob/main/result_student%20feedback.png)
